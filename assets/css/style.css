@@ -7,10 +7,10 @@ body{
 * {
     box-sizing: border-box;
 }
-img {
-    height: 150px;
-    width: 150px;
-}
+/*img {*/
+    /*height: 150px;*/
+    /*width: 150px;*/
+/*}*/
 
 .btn {
     /* adding spacing between each button*/
