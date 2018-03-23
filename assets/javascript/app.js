@@ -78,6 +78,7 @@ $( document ).ready(function() {
         } else {
             $(this).attr("src", $(this).attr("data-still"));
             $(this).attr("data-state", "still");
+            console.log("works 2");
 
         }
     });
